@@ -92,15 +92,19 @@ Bash
 
 streamlit run app.py
 
+```
 
 video demo
 
 
 
+https://github.com/user-attachments/assets/c25358ec-6413-4d26-aa5d-ca045c4a3c38
 
 
 
-https://github.com/user-attachments/assets/a8d46e1d-eb7f-40ad-b21b-7a3dd6ec5948
+
+
+
 
 
 
