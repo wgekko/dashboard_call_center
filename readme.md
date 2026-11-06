@@ -68,7 +68,7 @@ Instalación y Configuración
 1. Clonar el repositorio
 Bash
 
-git clone [https://github.com/tu-usuario/streamlitDashboardCallCenter.git](https://github.com/tu-usuario/streamlitDashboardCallCenter.git)
+git clone (https://github.com/wgekko/dashboard_call_center.git)
 
 cd streamlitDashboardCallCenter
 
